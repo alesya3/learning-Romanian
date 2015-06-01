@@ -16,13 +16,13 @@ Global list of resources for learning English across the web
 9. [Speaking Practice](#spractice)
 10.[YouTube Channels](#youtube)
 11.[Social Networks](#social)
-12. [Courses, Lessons and Topics](#courses)
-13. [TV/Radio](#radio)
-14. [Apps](#apps)
-15. [Games](#games)
-16. [Programs](#programs)
-17. [Dictionaries](#dict)
-18. [Tests](#tests)
+12.[Courses, Lessons and Topics](#courses)
+13.[TV/Radio](#radio)
+14.[Apps](#apps)
+15.[Games](#games)
+16.[Programs](#programs)
+17.[Dictionaries](#dict)
+18.[Tests](#tests)
 
 
 
@@ -52,76 +52,17 @@ Global list of resources for learning English across the web
 
 
 #### <a name='school'>School:</a>
+[livemocha](https://learn.livemocha.com/#/logout)
 
 
 
 
 
 #### <a name='tbooks'>Textbooks </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Румынский с преподавателем или без](http://www.beltsy.org/limbaromana/manual_treilea.htm)
+[Современный румынский язык](http://www.beltsy.org/limbaromana/manual_cincea.htm)
+[Учебники](http://in-yaz-book.ru/rum.html)
+[Учебники](https://yadi.sk/d/-JfEPkAo8B7lx)
 
 
 
@@ -135,8 +76,18 @@ Global list of resources for learning English across the web
 
 #### <a name='youtube'>YouTube Channels</a>
  [QuickRomanian](https://www.youtube.com/channel/UCtR9Q6SaCEJTxjy4cYqsvYg)
+ [LearnRomanian WithNico](https://www.youtube.com/channel/UCzKrAcUGNwkSMOhLgNuQAwg)
+ [Learn Romanian](https://www.youtube.com/playlist?list=PL973B4B3A84A0D326)
+ [VERBS](https://www.youtube.com/playlist?list=PLUi96ObBXkc9NK3jvPvzudJoAUn3ZLGpP)
+ [Introduction to Romanian](https://www.youtube.com/watch?v=ny2KDyoTtYk)
 
 
+#### <a name='social'>Social Networks</a>
+**Vk**
+ - [Румынский язык](https://vk.com/royaz)
+ - [| Учим румынский вместе ™ |](https://vk.com/club25466142)
+ - [Мы говорим по-румынски](https://vk.com/limba_romana)
+ - 
 
 
 
