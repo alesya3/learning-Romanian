@@ -5,17 +5,17 @@ Global list of resources for learning English across the web
 
 ##Table of Contents
 
-1. [**Vocabulary**](#vocab)
-2. [**Grammar**](#grammar)
-3. [**Speaking**](#speaking)
-4. [School](#school)
-5. [Textbooks in English](#tbooks)
+[**Vocabulary**](#vocab)
+[**Grammar**](#grammar)
+[**Speaking**](#speaking)
+ [School](#school)
+5. [Textbooks on Romanian](#tbooks)
 6. [Fiction on Romanian](#fiction)
 7. [Adaptive Books on Romanian](#adbooks)
 8. [Listening](#listening)
 9. [Speaking Practice](#spractice)
-10.[YouTube Channels](#youtube)
-11.[Social Networks](#social)
+[YouTube Channels](#youtube)
+[Social Networks](#social)
 12.[Courses, Lessons and Topics](#courses)
 13.[TV/Radio](#radio)
 14.[Apps](#apps)
@@ -32,11 +32,14 @@ Global list of resources for learning English across the web
 - [Он-лайн словарь](http://www.liderra.com/index.php?lang=ru)
 - [Интернет Полиглот](http://www.internetpolyglot.com/lessons-ro-ru) 
 - [Произношение слов](http://ru.forvo.com/languages/ro/)
-- [Dicționare ale limbii române](
+- [Dicționare ale limbii române](http://dexonline.ro)
 - [Разговорник](http://www.mirkrasiv.ru/reference/phrasebooks/russian-romanian.html)
 
 
 #### <a name='grammar'>Grammar</a>
+- [compgrammar_romanian](http://www.seelrc.org:8080/grammar/mainframe.jsp?nLanguageID=5)
+- [Learn Romanian](http://www.learnro.com/romanian-grammar)
+- [Румынское произношение](http://www.learnro.com/romanian-pronunciation) 
 
 
 
@@ -53,6 +56,7 @@ Global list of resources for learning English across the web
 
 #### <a name='school'>School:</a>
 [livemocha](https://learn.livemocha.com/#/logout)
+[Romanian Courses](http://www.memrise.com/courses/english/romanian/) 
 
 
 
@@ -93,7 +97,7 @@ Global list of resources for learning English across the web
 
 
 
-
+#### <a name='tbooks'>Textbooks </a>
 
 
 
